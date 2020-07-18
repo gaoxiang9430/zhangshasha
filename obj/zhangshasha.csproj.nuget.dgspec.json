@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gaoxiang/project/zhangshasha/zhangshasha.csproj": {}
+  },
+  "projects": {
+    "/home/gaoxiang/project/zhangshasha/zhangshasha.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gaoxiang/project/zhangshasha/zhangshasha.csproj",
+        "projectName": "zhangshasha",
+        "projectPath": "/home/gaoxiang/project/zhangshasha/zhangshasha.csproj",
+        "packagesPath": "/home/gaoxiang/.nuget/packages/",
+        "outputPath": "/home/gaoxiang/project/zhangshasha/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gaoxiang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/gaoxiang/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

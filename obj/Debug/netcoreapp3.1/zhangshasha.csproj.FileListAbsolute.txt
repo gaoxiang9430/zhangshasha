@@ -1,0 +1,13 @@
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.csprojAssemblyReference.cache
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.AssemblyInfoInputs.cache
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.AssemblyInfo.cs
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.csproj.CoreCompileInputs.cache
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha.deps.json
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha.runtimeconfig.json
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha.runtimeconfig.dev.json
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha.dll
+/home/gaoxiang/project/zhangshasha/bin/Debug/netcoreapp3.1/zhangshasha.pdb
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.dll
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.pdb
+/home/gaoxiang/project/zhangshasha/obj/Debug/netcoreapp3.1/zhangshasha.genruntimeconfig.cache
